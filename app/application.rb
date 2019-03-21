@@ -11,8 +11,6 @@ class Application
       resp.finish 
     end 
   end
-    resp.write "Hello, World"
-    resp.finish
-  end
+   
 
 end
